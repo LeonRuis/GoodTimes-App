@@ -1,8 +1,11 @@
 [package]
-name = "GoodTimes"
+name = "good_times"
 version = "0.1.0"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+glium = "0.32.1"
+winit = "0.28.7"
+glutin = "0.29.1"

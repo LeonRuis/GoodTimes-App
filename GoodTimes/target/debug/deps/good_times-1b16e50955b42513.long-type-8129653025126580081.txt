@@ -1,0 +1,1 @@
+fn(ContextWrapper<_, glium::glutin::window::Window>) -> Result<glium::Display, glium::IncompatibleOpenGl> {glium::Display::from_gl_window::<_>}
